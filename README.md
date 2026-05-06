@@ -58,7 +58,8 @@ XGBoost (XGBM),
 
 LightGBM (LGBM),
 
-Technologies Used
+Technologies Used:
+
 Python,
 
 NumPy,
