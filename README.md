@@ -59,11 +59,17 @@ XGBoost (XGBM),
 LightGBM (LGBM),
 
 Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib & Seaborn
-Scikit-learn
-TensorFlow / Keras
+Python,
+
+NumPy,
+
+Pandas,
+
+Matplotlib & Seaborn,
+
+Scikit-learn,
+
+TensorFlow / Keras,
+
 NLP Libraries
 
