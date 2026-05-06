@@ -41,21 +41,3 @@ Scikit-learn
 TensorFlow / Keras
 NLP Libraries
 
-├── EDA1/
-├── EDA2/
-├── Basic_statistics1/
-├── basis_stats2/
-├── Hypothesis_testing/
-├── clustering/
-├── PCA/
-├── Association_Rule/
-├── Recommendation/
-├── KNN/
-├── Logistic_Regression/
-├── Decision_tree/
-├── Random_Forest/
-├── SVM/
-├── NLP_and_Native_Bayes/
-├── Netural_Network/
-├── Time_series/
-├── XGBM & LGBM/
