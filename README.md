@@ -1,4 +1,4 @@
-📊 Machine Learning & Data Science Projects
+Machine Learning & Data Science Projects
 
 This repository contains  to advanced concepts in Machine Learning, Data Science, and Statistics. Each folder demonstrates practical implementation using real-world datasets and Python-based tools.
 
